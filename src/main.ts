@@ -1,1 +1,4 @@
-import './style.css'
+// import './style.css'
+// import MetodosString from './javascript/MetodosString'
+
+// MetodosString()
